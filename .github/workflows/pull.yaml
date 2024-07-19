@@ -25,7 +25,7 @@ jobs:
           SCRAPEWAY_USERNAME: ${{ secrets.SCRAPEWAY_USERNAME }}
           SCRAPEWAY_PASSWORD: ${{ secrets.SCRAPEWAY_PASSWORD }}
         run: |
-          content=$(curl -s https://scrapeway.com/?format=markdown)
+          content=$(curl -s --compressed https://scrapeway.com/?format=markdown)
           echo "$content" > README.md
 
       - name: Commit and push changes
