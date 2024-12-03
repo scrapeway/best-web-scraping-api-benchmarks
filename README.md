@@ -29,15 +29,15 @@ Web scraping benchmarks for __Average of all covered scraping targets.__
 
 |   |   | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | - | - | ------- | :----------: | :---: | :---------: |
-| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__98.3%__ |__9.2s__ |__$3.0__ |
-| 2|![](./assets/webscrapingapi-favicon.webp) |[__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) |85.7% |18.2s |$2.5 |
-| 3|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |79.0% |7.4s |$6.1 |
-| 4| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |76.9% |6.5s |$4.5 |
-| 5| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |63.5% |2.9s |$3.4 |
-| 6| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |55.1% |4.7s |$1.8 |
-| 7| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |46.4% |12.5s |$2.0 |
+| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__96.3%__ |__11.8s__ |__$3.3__ |
+| 2|![](./assets/webscrapingapi-favicon.webp) |[__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) |85.1% |18.1s |$2.4 |
+| 3|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |72.4% |7.1s |$5.2 |
+| 4| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |64.0% |2.7s |$3.1 |
+| 5| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |47.7% |5.1s |$1.8 |
+| 6| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |44.2% |13.5s |$2.0 |
+| 7| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |21.8% |1.7s |$0.0 |
 
-_Based on data from 2024-11-15 to 2024-11-22_
+_Based on data from 2024-11-22 to 2024-11-29_
 
 
 
@@ -47,15 +47,15 @@ Web scraping benchmarks for __Amazon.com product pages__
 
 |   |   | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | - | - | ------- | :----------: | :---: | :---------: |
-| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__100.0%__ |__3.7s__ |__$0.1__ |
-| 2|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |99.3% |5.4s |$2.5 |
-| 3|![](./assets/zenrows-favicon.webp) |[__Zenrows__](https://scrapeway.com/web-scraping-api/zenrows) |99.2% |5.6s |$2.7 |
-| 4| |[WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) |98.6% |6.1s |$2.7 |
-| 5| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |96.4% |6.9s |$3.3 |
-| 6| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |78.6% |4.4s |$2.2 |
-| 7| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |7.9% |10.9s |$4.8 |
+| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__100.0%__ |__3.3s__ |__$0.1__ |
+| 2|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |100.0% |5.7s |$2.5 |
+| 3|![](./assets/webscrapingapi-favicon.webp) |[__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) |99.3% |5.8s |$2.7 |
+| 4| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |93.6% |6.5s |$3.3 |
+| 5| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |90.0% |4.1s |$2.2 |
+| 6| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |80.0% |5.8s |$0.0 |
+| 7| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |7.9% |10.3s |$4.8 |
 
-_Based on data from 2024-11-15 to 2024-11-22_
+_Based on data from 2024-11-22 to 2024-11-29_
 
 
 
@@ -65,15 +65,15 @@ Web scraping benchmarks for __Linkedin.com public pages__
 
 |   |   | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | - | - | ------- | :----------: | :---: | :---------: |
-| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__100.0%__ |__19.0s__ |__$7.8__ |
-| 2|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |98.6% |7.7s |$14.7 |
-| 3|![](./assets/zenrows-favicon.webp) |[__Zenrows__](https://scrapeway.com/web-scraping-api/zenrows) |96.7% |7.9s |$6.9 |
-| 4| |[WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) |94.3% |20.5s |$2.7 |
-| 5| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |62.9% |2.3s |$3.3 |
-| 6| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |62.9% |3.1s |$4.8 |
-| 7| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |0.0% |0.4s |$40.0 |
+| 1|![](./assets/webscrapingapi-favicon.webp) |[__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) |__100.0%__ |__19.1s__ |__$2.7__ |
+| 2|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |98.6% |8.8s |$14.7 |
+| 3|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |98.3% |24.8s |$7.9 |
+| 4| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |49.3% |2.4s |$3.3 |
+| 5| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |47.1% |4.9s |$4.8 |
+| 6| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |0.0% |0.0s |$0.0 |
+| 7| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |0.0% |7.7s |$40.0 |
 
-_Based on data from 2024-11-15 to 2024-11-22_
+_Based on data from 2024-11-22 to 2024-11-29_
 
 
 
@@ -83,15 +83,15 @@ Web scraping benchmarks for __Zillow.com property listing and search pages__
 
 |   |   | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | - | - | ------- | :----------: | :---: | :---------: |
-| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__100.0%__ |__2.8s__ |__$3.8__ |
-| 2|![](./assets/zenrows-favicon.webp) |[__Zenrows__](https://scrapeway.com/web-scraping-api/zenrows) |100.0% |4.3s |$6.9 |
-| 3|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |100.0% |6.0s |$0.5 |
-| 4| |[WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) |97.3% |14.7s |$2.7 |
-| 5| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |60.7% |2.1s |$2.2 |
+| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__100.0%__ |__2.5s__ |__$3.8__ |
+| 2|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |99.1% |4.6s |$0.5 |
+| 3|![](./assets/webscrapingapi-favicon.webp) |[__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) |99.1% |15.2s |$2.7 |
+| 4| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |39.3% |1.8s |$2.2 |
+| 5| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |0.0% |0.0s |$0.0 |
 | 6| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |0.0% |0.0s |$0.0 |
-| 7| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |0.0% |0.0s |$0.0 |
+| 7| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |0.0% |0.0s |$0.0 |
 
-_Based on data from 2024-11-15 to 2024-11-22_
+_Based on data from 2024-11-22 to 2024-11-29_
 
 
 
@@ -101,15 +101,15 @@ Web scraping benchmarks for __booking.com hotel and other public pages__
 
 |   |   | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | - | - | ------- | :----------: | :---: | :---------: |
-| 1|![](./assets/webscrapingapi-favicon.webp) |[__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) |__100.0%__ |__5.3s__ |__$2.7__ |
-| 2|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |100.0% |7.2s |$4.9 |
-| 3|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |100.0% |26.1s |$4.0 |
-| 4| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |99.2% |4.4s |$2.7 |
-| 5| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |99.3% |7.5s |$2.2 |
-| 6| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |95.0% |3.6s |$3.3 |
+| 1|![](./assets/webscrapingapi-favicon.webp) |[__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) |__100.0%__ |__4.9s__ |__$2.7__ |
+| 2|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |100.0% |25.0s |$4.0 |
+| 3|![](./assets/scrapingdog-favicon.webp) |[__Scrapingdog__](https://scrapeway.com/web-scraping-api/scrapingdog) |99.3% |7.8s |$2.2 |
+| 4| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |97.1% |3.8s |$3.3 |
+| 5| |[Scraperapi](https://scrapeway.com/web-scraping-api/scraperapi) |97.1% |6.9s |$4.9 |
+| 6| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |80.0% |5.1s |$0.0 |
 | 7| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |0.0% |0.0s |$0.0 |
 
-_Based on data from 2024-11-15 to 2024-11-22_
+_Based on data from 2024-11-22 to 2024-11-29_
 
 
 
@@ -119,15 +119,15 @@ Web scraping benchmarks for __Job listing pages on Indeed.com__
 
 |   |   | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | - | - | ------- | :----------: | :---: | :---------: |
-| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__100.0%__ |__3.1s__ |__$3.8__ |
-| 2|![](./assets/webscrapingapi-favicon.webp) |[__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) |99.3% |12.6s |$2.7 |
-| 3|![](./assets/scrapingdog-favicon.webp) |[__Scrapingdog__](https://scrapeway.com/web-scraping-api/scrapingdog) |91.4% |7.8s |$2.2 |
-| 4| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |76.4% |3.7s |$2.7 |
-| 5| |[Scraperapi](https://scrapeway.com/web-scraping-api/scraperapi) |70.7% |6.2s |$9.8 |
-| 6| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |4.9% |1.3s |$3.3 |
-| 7| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |0.0% |0.0s |$0.0 |
+| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__97.5%__ |__34.1s__ |__$7.1__ |
+| 2|![](./assets/webscrapingapi-favicon.webp) |[__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) |95.7% |16.6s |$2.7 |
+| 3|![](./assets/scrapingdog-favicon.webp) |[__Scrapingdog__](https://scrapeway.com/web-scraping-api/scrapingdog) |30.7% |9.0s |$2.2 |
+| 4| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |0.0% |0.0s |$0.0 |
+| 5| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |0.0% |0.0s |$0.0 |
+| 6| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |0.0% |0.0s |$0.0 |
+| 7| |[Scraperapi](https://scrapeway.com/web-scraping-api/scraperapi) |0.0% |0.0s |$0.0 |
 
-_Based on data from 2024-11-15 to 2024-11-22_
+_Based on data from 2024-11-22 to 2024-11-29_
 
 
 
@@ -137,15 +137,15 @@ Web scraping benchmarks for __Instagram public pages (profile, post)__
 
 |   |   | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | - | - | ------- | :----------: | :---: | :---------: |
-| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__100.0%__ |__2.3s__ |__$3.8__ |
-| 2|![](./assets/scrapingant-favicon.webp) |[__Scrapingant__](https://scrapeway.com/web-scraping-api/scrapingant) |100.0% |2.9s |$4.8 |
-| 3|![](./assets/scrapingbee-favicon.webp) |[__Scrapingbee__](https://scrapeway.com/web-scraping-api/scrapingbee) |95.7% |2.0s |$3.3 |
-| 4| |[Scraperapi](https://scrapeway.com/web-scraping-api/scraperapi) |0.0% |0.0s |$0.0 |
-| 5| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |0.0% |0.0s |$0.0 |
+| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__100.0%__ |__1.6s__ |__$3.8__ |
+| 2|![](./assets/scrapingant-favicon.webp) |[__Scrapingant__](https://scrapeway.com/web-scraping-api/scrapingant) |100.0% |2.8s |$4.8 |
+| 3|![](./assets/scrapingbee-favicon.webp) |[__Scrapingbee__](https://scrapeway.com/web-scraping-api/scrapingbee) |93.6% |1.8s |$3.3 |
+| 4| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |0.0% |0.0s |$0.0 |
+| 5| |[Scraperapi](https://scrapeway.com/web-scraping-api/scraperapi) |0.0% |0.0s |$0.0 |
 | 6| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |0.0% |0.0s |$0.0 |
 | 7| |[WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) |0.0% |0.0s |$0.0 |
 
-_Based on data from 2024-11-15 to 2024-11-22_
+_Based on data from 2024-11-22 to 2024-11-29_
 
 
 
@@ -155,15 +155,15 @@ Web scraping benchmarks for __Walmart.com product pages__
 
 |   |   | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | - | - | ------- | :----------: | :---: | :---------: |
-| 1|![](./assets/scrapingant-favicon.webp) |[__Scrapingant__](https://scrapeway.com/web-scraping-api/scrapingant) |__100.0%__ |__44.1s__ |__$1.9__ |
-| 2|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |99.2% |5.6s |$2.5 |
-| 3|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |98.6% |15.5s |$4.0 |
-| 4| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |94.8% |5.5s |$6.9 |
-| 5| |[WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) |94.3% |27.4s |$2.5 |
-| 6| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |81.4% |2.2s |$3.3 |
-| 7| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |0.7% |1.5s |$2.2 |
+| 1|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |__100.0%__ |__2.9s__ |__$2.5__ |
+| 2|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |100.0% |11.5s |$4.1 |
+| 3|![](./assets/scrapingant-favicon.webp) |[__Scrapingant__](https://scrapeway.com/web-scraping-api/scrapingant) |99.2% |46.5s |$1.9 |
+| 4| |[WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) |96.4% |26.9s |$2.3 |
+| 5| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |82.5% |2.0s |$3.3 |
+| 6| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |0.7% |5.3s |$2.2 |
+| 7| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |0.0% |0.0s |$0.0 |
 
-_Based on data from 2024-11-15 to 2024-11-22_
+_Based on data from 2024-11-22 to 2024-11-29_
 
 
 
@@ -173,15 +173,15 @@ Web scraping benchmarks for __Etsy.com product and other public pages__
 
 |   |   | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | - | - | ------- | :----------: | :---: | :---------: |
-| 1|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |__100.0%__ |__3.7s__ |__$4.9__ |
-| 2|![](./assets/scrapingant-favicon.webp) |[__Scrapingant__](https://scrapeway.com/web-scraping-api/scrapingant) |100.0% |25.7s |$1.9 |
-| 3|![](./assets/zenrows-favicon.webp) |[__Zenrows__](https://scrapeway.com/web-scraping-api/zenrows) |99.2% |8.8s |$6.7 |
-| 4| |[Scrapfly](https://scrapeway.com/web-scraping-api/scrapfly) |98.8% |11.0s |$4.2 |
-| 5| |[WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) |99.3% |22.0s |$2.7 |
-| 6| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |87.9% |2.9s |$3.3 |
-| 7| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |20.0% |7.5s |$2.2 |
+| 1|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |__100.0%__ |__3.6s__ |__$4.9__ |
+| 2|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |100.0% |10.2s |$4.2 |
+| 3|![](./assets/webscrapingapi-favicon.webp) |[__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) |98.6% |21.1s |$2.7 |
+| 4| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |97.1% |31.6s |$1.9 |
+| 5| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |88.5% |2.6s |$3.3 |
+| 6| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |80.0% |7.6s |$0.0 |
+| 7| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |17.9% |7.8s |$2.2 |
 
-_Based on data from 2024-11-15 to 2024-11-22_
+_Based on data from 2024-11-22 to 2024-11-29_
 
 
 
@@ -191,15 +191,15 @@ Web scraping benchmarks for __X.com (Twitter) posts and other public pages__
 
 |   |   | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | - | - | ------- | :----------: | :---: | :---------: |
-| 1|![](./assets/webscrapingapi-favicon.webp) |[__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) |__87.7%__ |__24.5s__ |__$2.7__ |
-| 2|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |87.0% |13.7s |$0.9 |
-| 3|![](./assets/zenrows-favicon.webp) |[__Zenrows__](https://scrapeway.com/web-scraping-api/zenrows) |80.8% |25.3s |$6.9 |
-| 4| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |77.1% |5.6s |$8.2 |
-| 5| |[Scraperapi](https://scrapeway.com/web-scraping-api/scraperapi) |2.9% |26.4s |$12.2 |
+| 1|![](./assets/scrapingbee-favicon.webp) |[__Scrapingbee__](https://scrapeway.com/web-scraping-api/scrapingbee) |__72.9%__ |__5.2s__ |__$8.2__ |
+| 2|![](./assets/webscrapingapi-favicon.webp) |[__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) |70.1% |24.1s |$2.7 |
+| 3|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |69.2% |13.7s |$0.9 |
+| 4| |[Scraperapi](https://scrapeway.com/web-scraping-api/scraperapi) |2.1% |31.3s |$12.2 |
+| 5| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |0.0% |0.0s |$0.0 |
 | 6| |[Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) |0.0% |0.0s |$0.0 |
-| 7| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |0.0% |12.0s |$23.8 |
+| 7| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |0.0% |15.8s |$23.8 |
 
-_Based on data from 2024-11-15 to 2024-11-22_
+_Based on data from 2024-11-22 to 2024-11-29_
 
 
 
@@ -209,15 +209,15 @@ Web scraping benchmarks for __Stockx.com product and other public pages__
 
 |   |   | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | - | - | ------- | :----------: | :---: | :---------: |
-| 1|![](./assets/zenrows-favicon.webp) |[__Zenrows__](https://scrapeway.com/web-scraping-api/zenrows) |__100.0%__ |__6.1s__ |__$6.9__ |
-| 2|![](./assets/scrapingdog-favicon.webp) |[__Scrapingdog__](https://scrapeway.com/web-scraping-api/scrapingdog) |100.0% |8.1s |$2.2 |
-| 3|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |97.5% |1.9s |$0.1 |
-| 4| |[Scraperapi](https://scrapeway.com/web-scraping-api/scraperapi) |98.3% |5.8s |$9.8 |
-| 5| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |92.9% |38.6s |$1.9 |
-| 6| |[WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) |85.0% |38.3s |$2.7 |
-| 7| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |60.0% |2.0s |$3.3 |
+| 1|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |__100.0%__ |__6.6s__ |__$9.8__ |
+| 2|![](./assets/scrapingdog-favicon.webp) |[__Scrapingdog__](https://scrapeway.com/web-scraping-api/scrapingdog) |100.0% |8.2s |$2.2 |
+| 3|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |94.2% |1.6s |$0.1 |
+| 4| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |90.7% |38.8s |$1.9 |
+| 5| |[WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) |88.6% |37.2s |$2.7 |
+| 6| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |46.4% |2.4s |$3.3 |
+| 7| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |0.0% |0.0s |$0.0 |
 
-_Based on data from 2024-11-15 to 2024-11-22_
+_Based on data from 2024-11-22 to 2024-11-29_
 
 
 
@@ -227,15 +227,15 @@ Web scraping benchmarks for __Realtor.com property listing and search pages__
 
 |   |   | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | - | - | ------- | :----------: | :---: | :---------: |
-| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__100.0%__ |__2.4s__ |__$0.3__ |
-| 2|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |100.0% |7.7s |$4.9 |
-| 3|![](./assets/scrapingdog-favicon.webp) |[__Scrapingdog__](https://scrapeway.com/web-scraping-api/scrapingdog) |100.0% |7.8s |$2.2 |
-| 4| |[WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) |87.1% |28.7s |$2.7 |
-| 5| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |37.6% |3.2s |$3.3 |
-| 6| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |0.0% |0.0s |$0.0 |
-| 7| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |0.0% |0.0s |$0.0 |
+| 1|![](./assets/scrapfly-favicon.webp) |[__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) |__100.0%__ |__1.4s__ |__$0.1__ |
+| 2|![](./assets/scrapingdog-favicon.webp) |[__Scrapingdog__](https://scrapeway.com/web-scraping-api/scrapingdog) |99.3% |6.7s |$2.2 |
+| 3|![](./assets/scraperapi-favicon.webp) |[__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) |99.3% |8.1s |$4.9 |
+| 4| |[WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) |87.9% |27.8s |$2.7 |
+| 5| |[Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) |79.8% |3.1s |$3.3 |
+| 6| |[Zenrows](https://scrapeway.com/web-scraping-api/zenrows) |0.0% |0.0s |$0.0 |
+| 7| |[Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) |0.0% |0.0s |$0.0 |
 
-_Based on data from 2024-11-15 to 2024-11-22_
+_Based on data from 2024-11-22 to 2024-11-29_
 
 
 
