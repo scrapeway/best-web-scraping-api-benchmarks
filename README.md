@@ -23,10 +23,10 @@ Traceback (most recent call last):
     self.environment.handle_exception()
   File "/usr/local/lib/python3.12/site-packages/jinja2/environment.py", line 942, in handle_exception
     raise rewrite_traceback_stack(source=source)
-  File "/home/app/templates/index.md.jinja2", line 37, in top-level template code
-    {{ run.success|round(1) }}%
+  File "/home/app/templates/index.md.jinja2", line 18, in top-level template code
+    ## {{ target.primary_domain }} web scraping benchmarks
     ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/site-packages/jinja2/filters.py", line 1182, in do_round
-    return round(value, precision)
+  File "/usr/local/lib/python3.12/site-packages/jinja2/environment.py", line 490, in getattr
+    return getattr(obj, attribute)
            ^^^^^^^^^^^^^^^^^^^^^^^
-TypeError: type Undefined doesn't define __round__ method
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'antifingerprint'
