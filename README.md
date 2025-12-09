@@ -22,7 +22,7 @@ Web scraping benchmarks for __Average of all covered scraping targets.__
 | :--: | ------- | :----------: | :---: | :---------: |
 | 1 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | __98.5%__ | __7.3s__ | __$4.0__ |
 | 2 | ![](./assets/webscrapingapi-favicon.webp) [__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) | 91.0% | 20.5s | $2.7 |
-| 3 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | 76.9% | 5.5s | $4.9 |
+| 3 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | 73.6% | 5.5s | $4.8 |
 | 4 | [Scraperapi](https://scrapeway.com/web-scraping-api/scraperapi) | 59.8% | 7.8s | $3.5 |
 | 5 | [Zenrows](https://scrapeway.com/web-scraping-api/zenrows) | 59.5% | 12.4s | $4.6 |
 | 6 | [Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) | 38.7% | 2.6s | $1.7 |
@@ -69,7 +69,7 @@ Web scraping benchmarks for __Zillow.com property listing and search pages__
 | Rank | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | :--: | ------- | :----------: | :---: | :---------: |
 | 1 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | __99.9%__ | __5.2s__ | __$2.8__ |
-| 2 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | 94.8% | 10.9s | $6.1 |
+| 2 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | 99.5% | 10.6s | $6.3 |
 | 3 | ![](./assets/scraperapi-favicon.webp) [__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) | 88.5% | 20.7s | $4.9 |
 | 4 | [WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) | 44.1% | 16.6s | $2.7 |
 | 5 | [Zenrows](https://scrapeway.com/web-scraping-api/zenrows) | 30.5% | 1.6s | $0.3 |
@@ -84,8 +84,8 @@ _Based on data from 2025-11-28 to 2025-12-05_
 Web scraping benchmarks for __Walmart.com product pages__
 | Rank | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | :--: | ------- | :----------: | :---: | :---------: |
-| 1 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | __101.5%__ | __6.2s__ | __$6.0__ |
-| 2 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | 99.7% | 3.4s | $2.4 |
+| 1 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | __99.7%__ | __3.4s__ | __$2.4__ |
+| 2 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | 97.8% | 6.0s | $6.3 |
 | 3 | ![](./assets/webscrapingapi-favicon.webp) [__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) | 97.8% | 11.3s | $2.7 |
 | 4 | [Scraperapi](https://scrapeway.com/web-scraping-api/scraperapi) | 94.4% | 14.6s | $2.5 |
 | 5 | [Zenrows](https://scrapeway.com/web-scraping-api/zenrows) | 92.2% | 11.5s | $6.9 |
@@ -100,7 +100,7 @@ _Based on data from 2025-11-28 to 2025-12-05_
 Web scraping benchmarks for __Realtor.com property listing and search pages__
 | Rank | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | :--: | ------- | :----------: | :---: | :---------: |
-| 1 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | __103.7%__ | __7.1s__ | __$6.4__ |
+| 1 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | __100.0%__ | __6.9s__ | __$6.3__ |
 | 2 | ![](./assets/webscrapingapi-favicon.webp) [__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) | 99.5% | 22.2s | $2.7 |
 | 3 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | 99.2% | 8.9s | $4.7 |
 | 4 | [Zenrows](https://scrapeway.com/web-scraping-api/zenrows) | 72.4% | 17.8s | $6.9 |
@@ -119,8 +119,8 @@ Web scraping benchmarks for __Amazon.com product pages__
 | 1 | ![](./assets/scraperapi-favicon.webp) [__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) | __99.5%__ | __6.2s__ | __$2.5__ |
 | 2 | ![](./assets/webscrapingapi-favicon.webp) [__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) | 99.4% | 3.5s | $2.7 |
 | 3 | ![](./assets/scrapingdog-favicon.webp) [__Scrapingdog__](https://scrapeway.com/web-scraping-api/scrapingdog) | 99.2% | 2.6s | $0.2 |
-| 4 | [Scrapfly](https://scrapeway.com/web-scraping-api/scrapfly) | 96.8% | 10.7s | $1.9 |
-| 5 | [Firecrawl](https://scrapeway.com/web-scraping-api/firecrawl) | 96.7% | 7.7s | $6.3 |
+| 4 | [Firecrawl](https://scrapeway.com/web-scraping-api/firecrawl) | 99.0% | 7.3s | $6.3 |
+| 5 | [Scrapfly](https://scrapeway.com/web-scraping-api/scrapfly) | 96.8% | 10.7s | $1.9 |
 | 6 | [Zenrows](https://scrapeway.com/web-scraping-api/zenrows) | 91.7% | 8.6s | $6.9 |
 | 7 | [Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) | 49.3% | 6.2s | $0.3 |
 | 8 | [Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) | 13.6% | 42.1s | $1.9 |
@@ -133,8 +133,8 @@ Web scraping benchmarks for __Job listing pages on Indeed.com__
 | Rank | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | :--: | ------- | :----------: | :---: | :---------: |
 | 1 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | __99.8%__ | __4.7s__ | __$6.5__ |
-| 2 | ![](./assets/webscrapingapi-favicon.webp) [__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) | 95.9% | 27.5s | $2.7 |
-| 3 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | 95.5% | 6.6s | $6.3 |
+| 2 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | 99.8% | 6.5s | $6.3 |
+| 3 | ![](./assets/webscrapingapi-favicon.webp) [__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) | 95.9% | 27.5s | $2.7 |
 | 4 | [Zenrows](https://scrapeway.com/web-scraping-api/zenrows) | 93.1% | 26.6s | $6.9 |
 | 5 | [Scraperapi](https://scrapeway.com/web-scraping-api/scraperapi) | 75.8% | 13.0s | $4.9 |
 | 6 | [Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) | 35.6% | 2.0s | $3.2 |
@@ -148,8 +148,8 @@ _Based on data from 2025-11-28 to 2025-12-05_
 Web scraping benchmarks for __Etsy.com product and other public pages__
 | Rank | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | :--: | ------- | :----------: | :---: | :---------: |
-| 1 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | __100.0%__ | __5.3s__ | __$6.2__ |
-| 2 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | 99.9% | 3.5s | $3.8 |
+| 1 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | __99.9%__ | __3.5s__ | __$3.8__ |
+| 2 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | 99.2% | 5.2s | $6.3 |
 | 3 | ![](./assets/scraperapi-favicon.webp) [__Scraperapi__](https://scrapeway.com/web-scraping-api/scraperapi) | 98.5% | 4.1s | $4.9 |
 | 4 | [WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) | 96.9% | 17.9s | $2.7 |
 | 5 | [Zenrows](https://scrapeway.com/web-scraping-api/zenrows) | 94.5% | 24.2s | $6.9 |
@@ -166,7 +166,7 @@ Web scraping benchmarks for __booking.com hotel and other public pages__
 | :--: | ------- | :----------: | :---: | :---------: |
 | 1 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | __99.0%__ | __5.0s__ | __$3.6__ |
 | 2 | ![](./assets/zenrows-favicon.webp) [__Zenrows__](https://scrapeway.com/web-scraping-api/zenrows) | 97.4% | 16.6s | $6.9 |
-| 3 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | 93.2% | 8.9s | $6.3 |
+| 3 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | 92.2% | 9.1s | $6.3 |
 | 4 | [WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) | 82.0% | 28.7s | $2.7 |
 | 5 | [Scrapingbee](https://scrapeway.com/web-scraping-api/scrapingbee) | 17.4% | 3.8s | $3.4 |
 | 6 | [Scrapingant](https://scrapeway.com/web-scraping-api/scrapingant) | 0.0% | 0.0s | $0.0 |
@@ -196,7 +196,7 @@ _Based on data from 2025-11-28 to 2025-12-05_
 Web scraping benchmarks for __Stockx.com product and other public pages__
 | Rank | Service | Success ✅ | Speed ⏱️ | Cost $/1000 💸 |
 | :--: | ------- | :----------: | :---: | :---------: |
-| 1 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | __98.1%__ | __7.4s__ | __$6.3__ |
+| 1 | ![](./assets/firecrawl-favicon.webp) [__Firecrawl__](https://scrapeway.com/web-scraping-api/firecrawl) | __99.5%__ | __7.1s__ | __$6.3__ |
 | 2 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | 96.5% | 10.0s | $6.8 |
 | 3 | ![](./assets/webscrapingapi-favicon.webp) [__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) | 93.0% | 52.2s | $2.7 |
 | 4 | [Scraperapi](https://scrapeway.com/web-scraping-api/scraperapi) | 87.0% | 2.8s | $4.9 |
