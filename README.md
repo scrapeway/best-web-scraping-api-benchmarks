@@ -10,7 +10,7 @@ so we automated and started to share our benchmarks 👇
 > Get benchmarks __days__ before anyone else with [Scrapeway newsletter](https://scrapeway.com/newsletter) ⏫
 We run a sophisticated benchmarking process that reviews the entire web scraping API's performance
 like scrape blocks, success, scraping time and real cost based on charged amounts.
-For more indepth web scraping API evaluation see our review pages at [scrapeway.com/web-scraping-api](https://scrapeway.com/web-scraping-api/)
+For more indepth web scraping API evaluation see our review pages at [scrapeway.com/web-scraping-api](https://scrapeway.com/web-scraping-api)
 In the tables below we cover:
 - Success rate - how capable is the service at bypassing scraper blocking. This is measured by expected content check not status codes to capture all block scenarios.
 - Speed - how quickly response is returned.
