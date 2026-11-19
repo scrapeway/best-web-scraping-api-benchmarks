@@ -55,7 +55,7 @@ Web scraping benchmarks for __Stockx.com product and other public pages__
 | 3 | ![](./assets/webscrapingapi-favicon.webp) [__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) | 90.6% | 57.4s | $2.5 |
 | 4 | [ZenRows](https://scrapeway.com/web-scraping-api/zenrows) | 51.4% | 16.5s | $6.9 |
 | 5 | [ScraperAPI](https://scrapeway.com/web-scraping-api/scraperapi) | 37.1% | 12.9s | $12.3 |
-| 6 | [Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) | 0% | 0s | $0 |
+| 6 | [Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) | 0% | – | – |
 | – | [ScrapingBee](https://scrapeway.com/web-scraping-api/scrapingbee) | Not tested this month | – | – |
 
 
@@ -70,7 +70,7 @@ Web scraping benchmarks for __X.com (Twitter) posts and other public pages__
 | 3 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | 97.7% | 9.8s | $0.6 |
 | 4 | [ZenRows](https://scrapeway.com/web-scraping-api/zenrows) | 96.8% | 12.7s | $6.9 |
 | 5 | [WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) | 96.7% | 10.9s | $2.5 |
-| 6 | [ScraperAPI](https://scrapeway.com/web-scraping-api/scraperapi) | 0% | 0s | $0 |
+| 6 | [ScraperAPI](https://scrapeway.com/web-scraping-api/scraperapi) | 0% | – | – |
 | – | [ScrapingBee](https://scrapeway.com/web-scraping-api/scrapingbee) | Not tested this month | – | – |
 
 
@@ -85,7 +85,7 @@ Web scraping benchmarks for __Linkedin.com public pages__
 | 3 | ![](./assets/webscrapingapi-favicon.webp) [__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) | 80.0% | 17.0s | $2.5 |
 | 4 | [Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) | 65.0% | 6.6s | $17.7 |
 | 5 | [ZenRows](https://scrapeway.com/web-scraping-api/zenrows) | 58.6% | 19.3s | $6.7 |
-| 6 | [Firecrawl](https://scrapeway.com/web-scraping-api/firecrawl) | 0% | 0s | $0 |
+| 6 | [Firecrawl](https://scrapeway.com/web-scraping-api/firecrawl) | 0% | – | – |
 | – | [ScrapingBee](https://scrapeway.com/web-scraping-api/scrapingbee) | Not tested this month | – | – |
 
 
@@ -113,9 +113,9 @@ Web scraping benchmarks for __Instagram public pages (profile, post)__
 | 1 | ![](./assets/scrapingdog-favicon.webp) [__Scrapingdog__](https://scrapeway.com/web-scraping-api/scrapingdog) | __96.4%__ | __3.3s__ | __$3.0__ |
 | 2 | ![](./assets/webscrapingapi-favicon.webp) [__WebScrapingAPI__](https://scrapeway.com/web-scraping-api/webscrapingapi) | 78.5% | 19.6s | $2.5 |
 | 3 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | 74.7% | 10.0s | $2.9 |
-| 4 | [Firecrawl](https://scrapeway.com/web-scraping-api/firecrawl) | 0% | 0s | $0 |
-| 5 | [ScraperAPI](https://scrapeway.com/web-scraping-api/scraperapi) | 0% | 0s | $0 |
-| 6 | [ZenRows](https://scrapeway.com/web-scraping-api/zenrows) | 0% | 0s | $0 |
+| 4 | [Firecrawl](https://scrapeway.com/web-scraping-api/firecrawl) | 0% | – | – |
+| 5 | [ScraperAPI](https://scrapeway.com/web-scraping-api/scraperapi) | 0% | – | – |
+| 6 | [ZenRows](https://scrapeway.com/web-scraping-api/zenrows) | 0% | – | – |
 | – | [ScrapingBee](https://scrapeway.com/web-scraping-api/scrapingbee) | Not tested this month | – | – |
 
 
@@ -144,8 +144,8 @@ Web scraping benchmarks for __Job listing pages on Indeed.com__
 | 2 | ![](./assets/scrapfly-favicon.webp) [__Scrapfly__](https://scrapeway.com/web-scraping-api/scrapfly) | 97.2% | 24.7s | $5.8 |
 | 3 | ![](./assets/scraperapi-favicon.webp) [__ScraperAPI__](https://scrapeway.com/web-scraping-api/scraperapi) | 41.0% | 25.4s | $9.8 |
 | 4 | [Scrapingdog](https://scrapeway.com/web-scraping-api/scrapingdog) | 38.3% | 2.1s | $0.2 |
-| 5 | [WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) | 0% | 0s | $0 |
-| 6 | [ZenRows](https://scrapeway.com/web-scraping-api/zenrows) | 0% | 0s | $0 |
+| 5 | [WebScrapingAPI](https://scrapeway.com/web-scraping-api/webscrapingapi) | 0% | – | – |
+| 6 | [ZenRows](https://scrapeway.com/web-scraping-api/zenrows) | 0% | – | – |
 | – | [ScrapingBee](https://scrapeway.com/web-scraping-api/scrapingbee) | Not tested this month | – | – |
 
 
